@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: about
+    url: https://hhbblee.github.io/about/
 
   - title: blog
     url: blog
