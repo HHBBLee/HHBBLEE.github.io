@@ -23,19 +23,6 @@ old_project_entries:
     desc: It will be posted soon
     highlight: NEW
 
-footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
 misc_entries:
   - title: this is an example vertical list
     url: false
