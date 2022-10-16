@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Project 1
 author: HB Lee / October 2022
 ---
 
