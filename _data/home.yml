@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: Automated driving System Safety Evaluation method base on Simulation and Systematic approach
+    desc: Automated driving system safety evaluation method base on simulation and systematic approach
 
   - title: Project 2
     url: overview-post
