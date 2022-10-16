@@ -32,7 +32,7 @@ theme_config:
   show_reading_time: false # show number of words and reading time in the blog posts
   # options for "home" page
   home:
-    title_projects: On-going projects
+    title_projects: Projects
     title_misc_list: Details
     title_old_projects: Paper
     title_blog: Blog
