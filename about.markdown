@@ -4,6 +4,8 @@ title: Hanbin Lee
 permalink: /About me/
 ---
 
+![website_aboutme](https://user-images.githubusercontent.com/83194112/196021238-616fdca3-efa4-4662-9587-9612de8f0c75.png)
+
 I am studying a master's degree in the [Department of Transportation Engineering at the University of Seoul](https://www.uos.ac.kr/urbansciences/college/main.do?epTicket=INV). 
 If you have questions, please contact e-mail address
 
