@@ -11,11 +11,11 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Development of Safety Evaluation Technology for Autonomous Vehicles Based on Actual Vehicle Simulation
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: A study of KHCM Revision 
 
   - title: Project 3
     url: overview-post
