@@ -4,7 +4,7 @@ title: Hanbin Lee
 permalink: /About me/
 ---
 
-I am studying a master's degree in the Department of Transportation Engineering at the University of Seoul. 
+I am studying a master's degree in the [Department of Transportation Engineering at the University of Seoul](https://www.uos.ac.kr/urbansciences/college/main.do?epTicket=INV). 
 If you have questions, please contact e-mail address
 
 leehanbeen20@gmail.com
@@ -24,7 +24,6 @@ leehanbeen20@gmail.com
 - Python
 - R
 - Mysql
-- STATA
 - QGIS
 - PTV Vissim / Visum
 - Sumo
