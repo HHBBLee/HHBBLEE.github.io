@@ -3,7 +3,7 @@ navbar_entries:
     url: https://hhbblee.github.io/About me/
 
   - title: blog
-    url: https://hhbblee.github.io/blog/
+    url: blog
 
 project_entries:
   - title: Project 1
