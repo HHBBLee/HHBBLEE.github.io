@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: https://hhbblee.github.io/project1
+    url: https://hhbblee.github.io/project-1
     desc: Automated driving system safety evaluation method base on simulation and systematic approach
 
   - title: Project 2
