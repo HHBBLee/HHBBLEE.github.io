@@ -29,6 +29,7 @@ leehanbeen20@gmail.com
 - Sumo
 - IPG Carmaker
 - Carla Simulator / Unreal Engine4
+- Ubuntu 20.04 LTS
 
 
 
