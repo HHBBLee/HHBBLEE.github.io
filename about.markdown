@@ -4,24 +4,34 @@ title: Hanbin Lee
 permalink: /About me/
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+I am studying a master's degree in the Department of Transportation Engineering at the University of Seoul. 
+If you have questions, please contact e-mail address
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+leehanbeen20@gmail.com
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
-## Lists
 
-Unordered:
+### My major research interests are
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+- Autonomous vehicle 
+- Cooperative autonomous vehicle or Platooning
+- Deep learning approach to transport modeling
+- Traffic-flow theory
+- Road safety
+
+### Software programs skills
+
+- Python
+- R
+- Mysql
+- STATA
+- QGIS
+- PTV Vissim / Visum
+- Sumo
+- IPG Carmaker
+- Carla Simulator / Unreal Engine4
+
+
 
 Ordered:
 
